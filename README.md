@@ -1,5 +1,5 @@
 
-#  **Seja Bem-Vindo!!!** 👋</br>
+# <p align="center"> **Seja Bem-Vindo!!!** 👋</br><p>
 
 
  👨🏿 *Olá, eu sou o* **DaN**!</br>
@@ -10,7 +10,7 @@
 
 _________________________________________________________
 
-### Formações Adcionais em Andamento:
+### <p align="center">Formações Adcionais em Andamento:<p>
 
 <p align="center">
 
