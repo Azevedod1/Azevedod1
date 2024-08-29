@@ -21,11 +21,15 @@ _________________________________________________________
 
 </br>
 
+<p align="center">
+
 -----
+
 | Cursos | Certificados |
 |--------|--------------|
 |Python Essentials|[Certificado](https://www.credly.com/badges/e52227b7-8428-4452-b6f1-1fdc682b225c/public_url)
 |Introduction to Cybersecurity|[Certificado](https://www.credly.com/badges/ebe001d2-e82e-4081-9dee-abc51f2b8f91/public_url)
+</p>
 
 -----
 
