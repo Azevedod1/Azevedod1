@@ -1,46 +1,63 @@
+# Olá, eu sou Danilo Rocha de Azevedo! 👋
 
-# <p align="center"> **Seja Bem-Vindo!!!** 👋</br><p>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta de tecnologia, atualmente focado em me especializar no ecossistema **Java**.
 
+Com um background técnico em Eletroeletrônica e experiência empreendedora, trago uma visão prática de resolução de problemas e comprometimento com aprendizado contínuo.
 
- ### 👨🏿 *Olá, eu sou o* **DaN**!</br>
- 
- 📚 Estou cursando **Análise e Desenvolvimento de Sistemas** e outros cursos relacionados à programação.✨</br>
- ⚡ Estou fascinado pelo mundo da programação. Para mim é *empolgante* e *desafiador* ao mesmo tempo!!</br>
- 🤝🏼 Toda ajuda é Bem-Vinda, acredito no poder da **colaboração**, então... _bora lá_!!!</br>
+---
 
-_________________________________________________________
+## 🚀 Sobre Mim
 
-### <p align="center">Formações Adcionais em Andamento:<p>
+- 🎓 Estou cursando **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Senac (Previsão: 08/2026).
+- ☕ Atualmente focado em aprofundar meus conhecimentos em **Java**.
+- 📚 Estou sempre buscando novas certificações e desafios para crescer profissionalmente.
+- 💡 Tenho interesse em Backend, Segurança da Informação e Inteligência Artificial.
 
-<p align="center">
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
+**Linguagens de Programação:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+**Banco de Dados:**
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-</br>
+**Outros:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
------
-<p align="center">
+## 📜 Formação Acadêmica
 
-| Cursos | Certificados |
-|--------|--------------|
-|Python Essentials|[Certificado](https://www.credly.com/badges/e52227b7-8428-4452-b6f1-1fdc682b225c/public_url)
-|Introduction to Cybersecurity|[Certificado](https://www.credly.com/badges/ebe001d2-e82e-4081-9dee-abc51f2b8f91/public_url)
-</p>
+* **Análise e Desenvolvimento de Sistemas** | Centro Universitário Senac (Em andamento)
+* **Técnico em Eletroeletrônica** | ETEC Trajano Camargo
 
------
+## 🏆 Certificações e Cursos
 
-![DaN GitHub stats](https://github-readme-stats.vercel.app/api?username=azevedod1&show_icons=true&theme=radical)
+* **Formação Java Developer** - JAVANAUTA (Cursando)
+* **Python Essentials 1** - Cisco Networking Academy
+* **Introduction to Cybersecurity** - Cisco Networking Academy
+* **Microsoft Copilot AI Formação** - DIO.me
+* **Github Certification** - DIO.me
 
-<!--
-**Azevedod1/Azevedod1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Idiomas
 
-## 👨🏿 Olá, me chamo Danilo
-- 💦 Atualmente Trabalho com Limpeza de Piscinas ...
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas ...
-- ⚡ Estou fascinado pelo mundo da programação...
+* **Português:** Nativo
+* **Espanhol:** Avançado
+* **Inglês:** Intermediário
 
--->
+---
+
+## 📫 Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/danilo-azev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:azevedod1@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
